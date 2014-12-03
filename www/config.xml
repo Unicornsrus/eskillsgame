@@ -5,7 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>Sarah and Victoria's eskills Memory game</name>
-		<gap:platform name="This skills game was developed by Sarah and Victoria for ITGirls 2014!</description/>
+		<gap:platform name=<description>This skills game was developed by Sarah and Victoria for ITGirls 2014!</description/>
 		<gap:platform name="android" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
