@@ -4,9 +4,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name>Sarah and Victoria's eskills Memory game</name>
+		<gap:platform name="This skills game was developed by Sarah and Victoria for ITGirls 2014!</description/>
 		<gap:platform name="android" />
-		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
 		<icon src="icon.png" />
